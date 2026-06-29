@@ -1,0 +1,39 @@
+---
+title: 001 - Debugging Mindset
+sidebar_position: 1
+---
+ 📒 Engineering Notebook Entry
+# Debugging Mindset
+
+## Observation
+
+VS Code showed:
+
+Cannot find module '@docusaurus/tsconfig'
+
+## Investigation
+
+- Verified application runs.
+- Verified package exists.
+- Verified tsconfig.
+- Restarted TypeScript Language Server.
+
+## Root Cause
+
+VS Code TypeScript Language Server had stale state.
+
+## Solution
+
+Restart VS Code / Restart TypeScript Server.
+
+## Lesson Learned
+
+Not every red underline means your application is broken.
+
+Always determine whether the problem is:
+
+- Editor
+- Compiler
+- Runtime
+
+Never assume.
