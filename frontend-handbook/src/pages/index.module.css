@@ -21,3 +21,11 @@
   align-items: center;
   justify-content: center;
 }
+
+.home_h2 {
+  text-align: center;
+}
+
+.comming_soon {
+  padding-block: 4rem;
+}
