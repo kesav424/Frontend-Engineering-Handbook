@@ -15,14 +15,14 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://frontend-handbook',
+  url: 'https://kesav424.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: process.env.baseUrl ? process.env.baseUrl : '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  // organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'kesav424', // Usually your GitHub org/user name.
   projectName: 'Frontend-Engineering-Handbook', // Usually your repo name.
 
   onBrokenLinks: 'throw',
