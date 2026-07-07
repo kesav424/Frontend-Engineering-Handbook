@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Module 0 Overview
+title:  00 - Overview
 ---
 
 # Module 0 — Development Environment & Runtime Fundamentals
