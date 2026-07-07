@@ -1,9 +1,9 @@
 ---
-title: Engineering Notebook 001 - CPU Mental Model
+title: 001 - CPU Mental Model
 sidebar_position: 1
 ---
 
-# Engineering Notebook 001 — CPU Mental Model
+# CPU Mental Model
 
 > These are my personal engineering notes while learning Computer Fundamentals.
 

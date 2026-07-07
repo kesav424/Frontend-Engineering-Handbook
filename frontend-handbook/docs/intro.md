@@ -4,9 +4,7 @@ sidebar_position: 0
 ---
 # 🚀 Frontend Engineer Mastery Roadmap
 
-> **Author:** Kesav G
-> **Mentor:** ChatGPT
-> **Goal:** Become an interview-ready Senior Frontend Engineer by mastering concepts from first principles instead of memorizing answers.
+
 
 ---
 
