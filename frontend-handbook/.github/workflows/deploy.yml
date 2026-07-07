@@ -31,7 +31,7 @@ jobs:
       - run: npm run build
         env:
           # This forces the build to use the subpath without breaking local dev
-          BASE_URL: /frontend-handbook/
+          BASE_URL: /Frontend-Engineering-Handbook/
       
       - name: Create .nojekyll
         run: touch build/.nojekyll
