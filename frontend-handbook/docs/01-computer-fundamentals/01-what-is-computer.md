@@ -1,6 +1,6 @@
 ---
 title: What Is a Computer?
-sidebar_label: 01 - What Is a Computer?
+sidebar_label: What Is a Computer?
 sidebar_position: 2
 description: Learn what a computer really is, how it executes instructions, and why understanding computers makes you a better frontend engineer.
 ---

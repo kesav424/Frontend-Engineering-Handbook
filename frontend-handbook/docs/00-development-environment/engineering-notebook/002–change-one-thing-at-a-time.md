@@ -1,6 +1,6 @@
 ---
 title:  Change One Thing at a Time
-sidebar_label: 002 - Change One Thing at a Time
+sidebar_label: 2 - Change One Thing at a Time
 sidebar_position: 1
 ---
  📒 Engineering Notebook Entry

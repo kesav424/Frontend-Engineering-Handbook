@@ -1,0 +1,9 @@
+{
+    "label": "01 - computer fundamentals",
+    "position": 1,
+    "link": {
+        "type": "generated-index",
+        "title": "Module 01 - computer fundamentals",
+        "description": "Learn what a computer really is, how it executes instructions, and why understanding computers makes you a better frontend engineer."
+    }
+}

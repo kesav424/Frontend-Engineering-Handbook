@@ -1,6 +1,6 @@
 ---
 title: CPU - The Brain of the Computer
-sidebar_label: 02 - CPU - The Brain of the Computer
+sidebar_label: CPU - The Brain of the Computer
 sidebar_position: 2
 description: Understand what a CPU is, how it executes instructions, and why every program ultimately depends on it.
 ---

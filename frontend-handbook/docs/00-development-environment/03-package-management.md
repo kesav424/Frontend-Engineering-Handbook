@@ -1,6 +1,6 @@
 ---
 title: Package Management
-sidebar_label: 03 - Package Management
+sidebar_label: Package Management
 sidebar_position: 4
 description: Learn how modern JavaScript projects manage dependencies, why package.json exists, what package-lock.json does, and how npm installs packages.
 ---

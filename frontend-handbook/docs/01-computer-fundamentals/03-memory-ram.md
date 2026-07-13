@@ -1,6 +1,6 @@
 ---
 title: Memory (RAM)
-sidebar_label: 03 - Memory (RAM)
+sidebar_label: Memory (RAM)
 sidebar_position: 2
 description: Learn what RAM is, why programs must be loaded into memory before execution, and how memory enables the CPU to work.
 ---

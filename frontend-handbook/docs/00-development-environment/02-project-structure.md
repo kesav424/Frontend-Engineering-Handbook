@@ -1,6 +1,6 @@
 ---
 title: Project Structure
-sidebar_label: 02 - Project Structure
+sidebar_label: Project Structure
 sidebar_position: 3
 description: Understand how a modern JavaScript project is organized and why each file and folder exists.
 ---
