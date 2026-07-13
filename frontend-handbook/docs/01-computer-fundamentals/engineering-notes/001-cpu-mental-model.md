@@ -1,5 +1,6 @@
 ---
-title: 001 - CPU Mental Model
+title: CPU Mental Model
+sidebar_label: 001 - CPU Mental Model
 sidebar_position: 1
 ---
 

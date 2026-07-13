@@ -1,5 +1,6 @@
 ---
-title: 04 - Node.js Runtime
+title: Node.js Runtime
+sidebar_label: 04 - Node.js Runtime
 sidebar_position: 5
 description: Understand what Node.js really is, how a runtime differs from a programming language, what V8 does, and how JavaScript reaches the CPU.
 ---

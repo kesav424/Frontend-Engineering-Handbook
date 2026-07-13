@@ -1,5 +1,6 @@
 ---
-title: 01 - Debugging Mindset
+title: Debugging Mindset
+sidebar_label: 01-Debugging Mindset
 sidebar_position: 2
 description: Learn how experienced engineers approach debugging by understanding problems systematically instead of guessing.
 ---

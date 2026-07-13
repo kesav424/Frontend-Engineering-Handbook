@@ -1,12 +1,13 @@
 ---
+title:  development-environment
+sidebar_label:  00-development-environment
 sidebar_position: 1
-title:  00 - Overview
 ---
+import DocCardList from '@theme/DocCardList';
 
 # Module 0 — Development Environment & Runtime Fundamentals
 
 > "Before learning React, learn the platform React runs on."
-
 ---
 
 ## Why This Module Exists
@@ -145,8 +146,11 @@ Node.js
 React
 ```
 
+
 ---
 
 # Next Chapter
 
 ➡️ **01 – Debugging Mindset**
+
+<DocCardList />
