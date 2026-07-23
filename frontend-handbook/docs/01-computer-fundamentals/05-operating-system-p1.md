@@ -1,6 +1,6 @@
 ---
 title: Operating System Part 1
-sidebar_position: 4
+sidebar_position: 2
 description: Learn what an Operating System really is, why it exists, and how it manages hardware, processes, memory, files, and applications.
 ---
 

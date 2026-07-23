@@ -1,6 +1,6 @@
 ---
 title: Storage (SSD & HDD)
-sidebar_position: 4
+sidebar_position: 2
 description: Understand how computers store data permanently, how SSDs and HDDs differ, and what really happens when you save or delete a file.
 ---
 
