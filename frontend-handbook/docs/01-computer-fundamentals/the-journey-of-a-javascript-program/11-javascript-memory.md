@@ -1,5 +1,5 @@
 ---
-title: JavaScript Memory: Stack, Heap, and Execution Context
+title: JavaScript Memory Stack, Heap, and Execution Context
 sidebar_position: 3
 description: Learn how JavaScript stores variables, objects, functions, and execution contexts in memory using the Stack and Heap.
 ---

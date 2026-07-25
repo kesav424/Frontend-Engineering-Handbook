@@ -1,5 +1,5 @@
 ---
-title: TurboFan: Optimizing JavaScript into Machine Code
+title: TurboFan Optimizing JavaScript into Machine Code
 sidebar_position: 3
 description: Learn how V8's TurboFan optimizer transforms frequently executed JavaScript into highly optimized machine code using Just-In-Time (JIT) compilation.
 ---

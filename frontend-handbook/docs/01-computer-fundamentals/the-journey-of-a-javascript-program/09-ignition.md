@@ -1,5 +1,5 @@
 ---
-title: Ignition: From AST to Bytecode
+title: Ignition From AST to Bytecode
 sidebar_position: 3
 description: Learn how V8 transforms the Abstract Syntax Tree (AST) into bytecode and how the Ignition interpreter begins executing your JavaScript.
 ---
