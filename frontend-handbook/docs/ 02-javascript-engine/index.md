@@ -1,6 +1,6 @@
 ---
 title: The Journey of a JavaScript Program
-sidebar_position: 2
+sidebar_position: 1
 description: Follow a JavaScript program from the moment you press Enter in the terminal until a webpage appears in your browser. This chapter connects everything learned in Module 1 into one complete story.
 ---
 
