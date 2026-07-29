@@ -1,5 +1,5 @@
 ---
-title:  Garbage Collection  How JavaScript Frees Memory
+title:  Garbage Collection
 sidebar_position: 3
 description: Learn how V8 automatically frees unused memory using the Garbage Collector, Mark-and-Sweep algorithm, and Generational Heap.
 ---
